@@ -1,0 +1,5 @@
+{
+  "name": "DigitReader AI",
+  "description": "A streamlined web application that uses Google Gemini AI to identify handwritten numbers from uploaded images.",
+  "requestFramePermissions": []
+}
